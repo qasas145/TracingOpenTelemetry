@@ -1,0 +1,6 @@
+@TracingOpenTelemetry_HostAddress = http://localhost:5160
+
+GET {{TracingOpenTelemetry_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
